@@ -33,3 +33,9 @@ Open the "Project Properties" and navigate to the "C/C++ Build -> Board/Part/SDK
 Select the new board or part to target and "Apply" the changes.
 
 **_Note_**_: there may be dependencies that need to be resolved when changing the target architecture_.
+
+## Community Link ##
+
+Project link in the Silicon Labs community: [Link][COMMUNITY_LINK]
+
+[COMMUNITY_LINK]:https://community.silabs.com/s/article/guitar-and-ukulele-tuner-using-the-gg11-starter-kit?language=en_US
